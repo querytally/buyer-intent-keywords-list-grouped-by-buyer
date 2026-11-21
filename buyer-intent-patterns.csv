@@ -1,0 +1,17 @@
+group,pattern,example,page it needs
+hire,[service] near me,garage door repair near me,"Service page, phone and hours at the top"
+hire,[service] [city],garage door repair phoenix,Service page that names the area
+hire,emergency [service],emergency garage door repair,"Same-day page, phone first"
+hire,same day [service],same day garage door repair,Same-day page
+hire,[job] [service],broken spring garage door repair,One page per job type
+hire,[service] company [city],garage door company phoenix,Service page with photos of real jobs
+price,[job] cost,garage door spring replacement cost,Price page with honest ranges
+price,[job] price,garage door opener installation price,Price page
+price,[service] quote,garage door repair quote,Short quote form
+price,how much is [job],how much is a new garage door,"Price page, the answer in the first line"
+price,affordable [service],affordable garage door repair,Price page that names the cheapest option
+compare,best [service] [city],best garage door company phoenix,"Proof page: reviews, years, warranty"
+compare,[service] reviews,garage door repair reviews,Reviews page
+compare,[option a] vs [option b],belt drive vs chain drive opener,Comparison page
+compare,[product brand] [service],(a brand you install) opener repair,One page per brand you service
+compare,licensed [service] [city],licensed garage door contractor phoenix,Trust page with licence details
